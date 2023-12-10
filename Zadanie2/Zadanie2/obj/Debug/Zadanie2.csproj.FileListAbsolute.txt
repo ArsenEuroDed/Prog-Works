@@ -1,5 +1,0 @@
-c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
-c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
-c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojResolveAssemblyReference.cache
-c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
-c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
