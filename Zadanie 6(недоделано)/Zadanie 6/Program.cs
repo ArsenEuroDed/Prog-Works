@@ -33,7 +33,10 @@ namespace Zadanie6
                     Console.WriteLine(">>>Данные введены некорректно! Повторите попытку!<<<");
                 }
             }
-            for (double x = x0; x <= xk; x += dx)
+
+            while (x < xk)
+            { 
+            //for (double x = x0; x <= xk; x += dx)
             {
                 c = ((Math.Cos(Math.Abs(Math.Pow((Math.Pow(x, 2) + Math.Tan(x) + b), 3 / 2)))) + Math.Pow(double.Epsilon, b + a)) / Math.Tan(Math.Pow(x, 2) - b);
                 Console.WriteLine($"При x = {x}, c = {c}");
