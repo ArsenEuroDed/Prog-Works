@@ -1,0 +1,5 @@
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_10\Zadanie_10\bin\Debug\Zadanie_10.exe
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_10\Zadanie_10\bin\Debug\Zadanie_10.pdb
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_10\Zadanie_10\obj\Debug\Zadanie_10.csprojResolveAssemblyReference.cache
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_10\Zadanie_10\obj\Debug\Zadanie_10.exe
+c:\users\arsenchik\documents\visual studio 2015\Projects\Zadanie_10\Zadanie_10\obj\Debug\Zadanie_10.pdb
